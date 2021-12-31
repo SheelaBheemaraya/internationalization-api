@@ -1,5 +1,7 @@
 # internationalization-api
 
+nternationalization is the process of designing web applications or services in such a way that it can provide support for various countries, various languages automatically without making the changes in the application.
+
 
 Open the REST client Postman and perform the following changes:
 
